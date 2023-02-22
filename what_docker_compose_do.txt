@@ -1,0 +1,9 @@
+- it's help us run our application depend on multi containers
+- Compose allows developers to define the infrastructure of their application,
+so it's define :
+1.services : the service need , db , web-server , language binary
+2.volumes : which will hold container data
+3.network : to make containers communicate with each others
+4. control containers dependencies
+
+- it's manage container run , stop .
